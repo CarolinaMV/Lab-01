@@ -16,7 +16,7 @@ En mi tiempo libre me gusta disfrutar de diversas actividades, algunas de estas 
 *Como el pozo de la nutria*
 ![Pozo](https://user-images.githubusercontent.com/79550161/150664360-289af07d-7fc3-4f3a-8778-ae8172dac48e.jpeg)
 *Entre otros*
-
+![Escalera](https://user-images.githubusercontent.com/79550161/150664491-3679ddc6-39ba-4dc2-86fe-028f05bb7bfd.jpeg)
 
 *Disfruto realizar actividades nuevas*
 
