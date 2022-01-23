@@ -13,6 +13,10 @@ En mi tiempo libre me gusta disfrutar de diversas actividades, algunas de estas 
 [Lyrics Training](https://es.lyricstraining.com/).
 - Conocer nuevos lugares.
 
+*Como el pozo de la nutria*
+![Pozo](https://user-images.githubusercontent.com/79550161/150664360-289af07d-7fc3-4f3a-8778-ae8172dac48e.jpeg)
+*Entre otros*
+
 
 *Disfruto realizar actividades nuevas*
 
