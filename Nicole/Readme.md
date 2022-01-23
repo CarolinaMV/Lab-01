@@ -1,1 +1,2 @@
-*Nombre:* Nicole Vanessa Montaña Gómez
+# Información Básica
+## *Nombre:* Nicole Vanessa Montaña Gómez
