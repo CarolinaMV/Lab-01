@@ -4,7 +4,7 @@
 
 **Ocupación:** *Estudiante de Ingeniería de Sistemas*
 
->Estudiante de ingeniería de sistemas de la Escuela Colombiana de Ingeniería Julio Garavito con conocimientos en diferentes lenguajes de programación, bases de datos y frameworks.
+>Soy estudiante de ingeniería de sistemas de la Escuela Colombiana de Ingeniería Julio Garavito con conocimientos en diferentes lenguajes de programación, bases de datos y frameworks.
 
 **Lenguajes de programación que conozco**
 
