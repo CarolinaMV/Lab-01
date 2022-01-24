@@ -40,3 +40,14 @@ class HelloWorld{
 
 ![Tabata](https://github.com/CarolinaMV/Lab-01/blob/master/Carolina/Tabata.jpg)
 
+# Parte 3
+
+### Principal
+
+![](https://github.com/CarolinaMV/Lab-01/blob/master/Carolina/Principal.png)
+
+### Remote
+
+![](https://github.com/CarolinaMV/Lab-01/blob/master/Carolina/reomote.png)
+
+
