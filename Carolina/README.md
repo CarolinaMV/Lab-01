@@ -38,3 +38,5 @@ class HelloWorld{
 
 ### Imagen
 
+![Tabata](https://github.com/CarolinaMV/Lab-01/blob/master/Carolina/Tabata.jpg)
+
